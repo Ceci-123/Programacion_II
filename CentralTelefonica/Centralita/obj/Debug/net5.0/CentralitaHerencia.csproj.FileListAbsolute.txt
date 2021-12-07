@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\CentralTelefonica\Centralita\bin\Debug\net5.0\CentralitaHerencia.deps.json
+C:\Users\user\source\repos\CentralTelefonica\Centralita\bin\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\user\source\repos\CentralTelefonica\Centralita\bin\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\user\source\repos\CentralTelefonica\Centralita\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\user\source\repos\CentralTelefonica\Centralita\obj\Debug\net5.0\CentralitaHerencia.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CentralTelefonica\Centralita\obj\Debug\net5.0\CentralitaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CentralTelefonica\Centralita\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CentralTelefonica\Centralita\obj\Debug\net5.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\user\source\repos\CentralTelefonica\Centralita\obj\Debug\net5.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CentralTelefonica\Centralita\obj\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\user\source\repos\CentralTelefonica\Centralita\obj\Debug\net5.0\ref\CentralitaHerencia.dll
+C:\Users\user\source\repos\CentralTelefonica\Centralita\obj\Debug\net5.0\CentralitaHerencia.pdb
