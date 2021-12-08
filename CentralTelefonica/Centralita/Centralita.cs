@@ -119,11 +119,19 @@ namespace CentralitaHerencia
 
         public static Centralita operator +(Centralita c, Llamada l1)
         {
-            if(c != l1 && c is not null && l1 is not null)
+            try
             {
-                c.AgregarLlamada(l1);
-                
+                if (c != l1 && c is not null && l1 is not null)
+                {
+                    c.AgregarLlamada(l1);
+
+                }
             }
+            catch (Exception)
+            {
+                throw new CentralitaException("Llamada existente", "Centralita", "operator +");
+            }
+            
             return c;
         }
         public override string ToString()

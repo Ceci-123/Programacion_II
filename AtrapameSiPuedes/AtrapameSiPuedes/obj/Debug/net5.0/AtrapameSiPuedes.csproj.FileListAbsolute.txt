@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\bin\Debug\net5.0\AtrapameSiPuedes.deps.json
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\bin\Debug\net5.0\AtrapameSiPuedes.dll
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\bin\Debug\net5.0\ref\AtrapameSiPuedes.dll
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\bin\Debug\net5.0\AtrapameSiPuedes.pdb
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\obj\Debug\net5.0\AtrapameSiPuedes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\obj\Debug\net5.0\AtrapameSiPuedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\obj\Debug\net5.0\AtrapameSiPuedes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\obj\Debug\net5.0\AtrapameSiPuedes.AssemblyInfo.cs
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\obj\Debug\net5.0\AtrapameSiPuedes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\obj\Debug\net5.0\AtrapameSiPuedes.dll
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\obj\Debug\net5.0\ref\AtrapameSiPuedes.dll
+C:\Users\user\Desktop\Programacion_II_repo github\AtrapameSiPuedes\AtrapameSiPuedes\obj\Debug\net5.0\AtrapameSiPuedes.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Atrapame/1.0.0": {
+        "dependencies": {
+          "AtrapameSiPuedes": "1.0.0"
+        },
+        "runtime": {
+          "Atrapame.dll": {}
+        }
+      },
+      "AtrapameSiPuedes/1.0.0": {
+        "runtime": {
+          "AtrapameSiPuedes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atrapame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtrapameSiPuedes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
