@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Aduana\Aduana\bin\Debug\net5.0\Aduana.deps.json
+C:\Users\user\source\repos\Aduana\Aduana\bin\Debug\net5.0\Aduana.dll
+C:\Users\user\source\repos\Aduana\Aduana\bin\Debug\net5.0\ref\Aduana.dll
+C:\Users\user\source\repos\Aduana\Aduana\bin\Debug\net5.0\Aduana.pdb
+C:\Users\user\source\repos\Aduana\Aduana\obj\Debug\net5.0\Aduana.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Aduana\Aduana\obj\Debug\net5.0\Aduana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Aduana\Aduana\obj\Debug\net5.0\Aduana.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Aduana\Aduana\obj\Debug\net5.0\Aduana.AssemblyInfo.cs
+C:\Users\user\source\repos\Aduana\Aduana\obj\Debug\net5.0\Aduana.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Aduana\Aduana\obj\Debug\net5.0\Aduana.dll
+C:\Users\user\source\repos\Aduana\Aduana\obj\Debug\net5.0\ref\Aduana.dll
+C:\Users\user\source\repos\Aduana\Aduana\obj\Debug\net5.0\Aduana.pdb
