@@ -17,3 +17,22 @@ C:\Users\user\source\repos\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\Console
 C:\Users\user\source\repos\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\user\source\repos\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\CentralitaHerencia.dll
 C:\Users\user\source\repos\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\user\Desktop\Programacion_II_repo github\CentralTelefonica\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache

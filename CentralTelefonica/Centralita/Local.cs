@@ -8,7 +8,7 @@ namespace CentralitaHerencia
 {
     public class Local :Llamada
     {
-        protected float costo;
+        private float costo;
 
         public Local(Llamada llamada,float costo) :base(llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
         {
@@ -20,19 +20,28 @@ namespace CentralitaHerencia
             this.costo = costo;
         }
 
-        public float CostoLlamada { get { return this.CalcularCosto(); }  }
+        public override float CostoLlamada { get { return this.CalcularCosto(); }  }
 
-        private float CalcularCosto()
+        public override float CalcularCosto()
         {
             return base.Duracion * this.costo;
         }
 
-        public override string Mostrar()
+        protected override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
             sb.Append($"{base.Mostrar()} + COSTO: {this.CostoLlamada}");
             return sb.ToString();
 
+        }
+        public override bool Equals(object obj)
+        {
+            return obj.GetType() == typeof(Local);
+        }
+
+        public override string ToString()
+        {
+            return this.Mostrar();
         }
     }
 }

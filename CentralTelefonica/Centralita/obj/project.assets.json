@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\CentralTelefonica\\Centralita\\CentralitaHerencia.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\CentralTelefonica\\Centralita\\CentralitaHerencia.csproj",
       "projectName": "CentralitaHerencia",
-      "projectPath": "C:\\Users\\user\\source\\repos\\CentralTelefonica\\Centralita\\CentralitaHerencia.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\CentralTelefonica\\Centralita\\CentralitaHerencia.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\CentralTelefonica\\Centralita\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\CentralTelefonica\\Centralita\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

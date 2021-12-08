@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Fizz-Buzz\\Fizz-Buzz\\Fizz-Buzz.csproj": {}
+    "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\Fizz-Buzz\\Fizz-Buzz\\Fizz-Buzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Fizz-Buzz\\Fizz-Buzz\\Fizz-Buzz.csproj": {
+    "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\Fizz-Buzz\\Fizz-Buzz\\Fizz-Buzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Fizz-Buzz\\Fizz-Buzz\\Fizz-Buzz.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\Fizz-Buzz\\Fizz-Buzz\\Fizz-Buzz.csproj",
         "projectName": "Fizz-Buzz",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Fizz-Buzz\\Fizz-Buzz\\Fizz-Buzz.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\Fizz-Buzz\\Fizz-Buzz\\Fizz-Buzz.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Fizz-Buzz\\Fizz-Buzz\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\Fizz-Buzz\\Fizz-Buzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
