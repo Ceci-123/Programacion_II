@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace CentralitaHerencia
 {
-    public class Centralita
+    public class Centralita : IGuardar<string>
     {
         
         private List<Llamada> listaDeLlamadas;
         protected string razonSocial;
+        protected string rutaArchivo;
 
         public Centralita(string nombreEmpresa) :this()
         {
@@ -24,6 +26,18 @@ namespace CentralitaHerencia
         }
 
         public List<Llamada> Llamadas { get { return this.listaDeLlamadas; } }
+
+        public string RutaDeArchivo
+        {
+            get
+            {
+                return this.rutaArchivo;
+            }
+            set
+            {
+                this.rutaArchivo = value;
+            }
+        }
 
         public float GananciasPorLocal { get {
                 return CalcularGanancia(Llamada.TipoLLamada.Local);
@@ -137,6 +151,38 @@ namespace CentralitaHerencia
         public override string ToString()
         {
             return this.Mostrar();
+        }
+        public bool Guardar()
+        {
+            try
+            {
+                using (StreamWriter sw = new StreamWriter(this.RutaDeArchivo, true))
+                {
+                    sw.WriteLine(String.Format($"{DateTime.Now.ToString(new System.Globalization.CultureInfo("es-ES"))} - Se realizó una llamada"));
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new FallaLogException("error al guardar en archivo", ex);
+            }
+
+            return true;
+        }
+
+        public string Leer()
+        {
+            try
+            {
+                using (StreamReader rd = new StreamReader(this.RutaDeArchivo))
+                {
+                    return rd.ReadToEnd();
+                }
+            }
+            catch
+            {
+
+                throw new FallaLogException("error al leer");
+            }
         }
     }
 }
