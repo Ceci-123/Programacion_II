@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\app\LaListaDelSuper.exe
+C:\Users\user\Desktop\app\LaListaDelSuper.dll
+C:\Users\user\Desktop\app\LaListaDelSuper.deps.json
+C:\Users\user\Desktop\app\LaListaDelSuper.runtimeconfig.json
+C:\Users\user\Desktop\app\LaListaDelSuper.pdb
