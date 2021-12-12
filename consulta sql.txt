@@ -1,0 +1,71 @@
+INSERT into Peliculas (Nombre,Fase,FechaEstreno,PersonajePpalId)
+  values ('Iron Man' ,1,2/5/2008,1)
+INSERT into Peliculas (Nombre,Fase,FechaEstreno,PersonajePpalId)
+  values ('Iron Man 2' ,1,7/5/2010,1)
+INSERT into Peliculas (Nombre,Fase,FechaEstreno,PersonajePpalId)
+  values ('El increible Hulk' ,1,13/6/2008,3)
+
+INSERT into dbo.EMPLEADOS (ID_EMPLEADO,NOMBRE,APELLIDO,ID_PUESTO,SALARIO,ESTA_ACTIVO,FECHA_ALTA,FECHA_BAJA
+      ,MAIL)   values (2,'Igor','England',5,283558.85,1,'2013-03-28',NULL,'iengland@hotmail.com'),
+	  (3,'Maya','Brock',3,164546.09,1,'1993-10-24',NULL,NULL),
+	  (4,'Hayden','Moss',4,211695.50,0,'2012-06-07','2015-02-19','hmoss@gmail.com'),
+	  (5,'Amal','Colon',2,388933.60,1,'2019-09-23',	NULL,	NULL)
+
+SELECT TOP (1000) [ID_PUESTO]
+      ,[NOMBRE]
+      ,[NIVEL_AUTORIZACION]
+  FROM [EMPRESA_DB].[dbo].[PUESTOS]
+
+  INSERT into dbo.PUESTOS(ID_PUESTO,NOMBRE,NIVEL_AUTORIZACION) 
+  values
+  (1,'Director',3),
+   (2,'Gerente',3),
+   (5,'Jefe de sector',2),
+   (4,'Administrativo',1),
+   (3,'Vendedor',0),
+   (6,'Secretario',	2)
+
+SELECT TOP (1000) [ID_EMPLEADO]
+      ,[NOMBRE]
+      ,[APELLIDO]
+      ,[ID_PUESTO]
+      ,[SALARIO]
+      ,[ESTA_ACTIVO]
+      ,[FECHA_ALTA]
+      ,[FECHA_BAJA]
+      ,[MAIL]
+  FROM [EMPRESA_DB].[dbo].[EMPLEADOS]
+
+WHERE MAIL IS NULL
+WHERE MAIL IS NOT NULL
+WHERE MAIL LIKE '%gmail%'
+WHERE APELLIDO LIKE 'B%'
+WHERE ESTA_ACTIVO = 1 AND SALARIO > 200000
+WHERE ESTA_ACTIVO = 0 OR MAIL IS NULL
+NOMBRE LIKE '%a%' AND MAIL IS NOT NULL
+WHERE SALARIO > 250000 AND FECHA_ALTA > Convert(datetime,'2000-01-01')
+WHERE SALARIO between 100000 and 200000
+WHERE SALARIO not between 100000 and 200000
+WHERE ESTA_ACTIVO = 1 order by APELLIDO asc
+
+SELECT * FROM [EMPRESA_DB].[dbo].[EMPLEADOS] INNER JOIN [EMPRESA_DB].[dbo].[PUESTOS] on empleados.[ID_PUESTO] = puestos.ID_PUESTO
+SELECT * FROM [EMPRESA_DB].[dbo].[EMPLEADOS], [EMPRESA_DB].[dbo].[PUESTOS]  WHERE empleados.[ID_PUESTO] = puestos.ID_PUESTO
+SELECT empleados.APELLIDO, empleados.NOMBRE, puestos.NOMBRE  FROM [EMPRESA_DB].[dbo].[EMPLEADOS], [EMPRESA_DB].[dbo].[PUESTOS]
+ WHERE empleados.[ID_PUESTO] = puestos.ID_PUESTO
+
+ SELECT empleados.APELLIDO, empleados.NOMBRE, puestos.NOMBRE  FROM [EMPRESA_DB].[dbo].[EMPLEADOS], [EMPRESA_DB].[dbo].[PUESTOS]
+ WHERE empleados.[ID_PUESTO] = puestos.ID_PUESTO and PUESTOS.NIVEL_AUTORIZACION = 3
+
+SELECT empleados.APELLIDO, empleados.NOMBRE, puestos.NOMBRE  FROM [EMPRESA_DB].[dbo].[EMPLEADOS], [EMPRESA_DB].[dbo].[PUESTOS]
+ WHERE empleados.[ID_PUESTO] = puestos.ID_PUESTO order by EMPLEADOS.APELLIDO asc
+
+ SELECT AVG(empleados.salario) FROM [EMPRESA_DB].[dbo].[EMPLEADOS]
+  SELECT AVG(empleados.salario) FROM [EMPRESA_DB].[dbo].[EMPLEADOS] where EMPLEADOS.ESTA_ACTIVO = 1
+ SELECT count(salario) FROM [EMPRESA_DB].[dbo].[EMPLEADOS] where salario > 100000
+SELECT max(empleados.salario) FROM [EMPRESA_DB].[dbo].[EMPLEADOS]
+
+SELECT * FROM [EMPRESA_DB].[dbo].[EMPLEADOS] WHERE SALARIO IN (select max(salario)
+    from [EMPRESA_DB].[dbo].[EMPLEADOS])
+
+UPDATE [EMPRESA_DB].[dbo].[EMPLEADOS] SET  mail='albesanch@mimail.com' WHERE nombre='Amal'
+UPDATE [EMPRESA_DB].[dbo].[EMPLEADOS]   SET  salario=(salario * 0.25) + salario   WHERE nombre='Amal'
