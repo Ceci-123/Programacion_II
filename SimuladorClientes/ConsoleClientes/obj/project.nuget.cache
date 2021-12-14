@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "djMZRe8VZ6H5hSbFaiXHwsg3ZnTv6OL0IzpWYl9pHlJee+mJdwNLESSmxEkKrmMmR9rgWv8ly3kn2m1p3aSQBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\SimuladorClientes\\ConsoleClientes\\ConsoleClientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

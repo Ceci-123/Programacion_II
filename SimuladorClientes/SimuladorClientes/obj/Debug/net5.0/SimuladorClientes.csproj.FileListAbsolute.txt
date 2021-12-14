@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\bin\Debug\net5.0\SimuladorClientes.deps.json
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\bin\Debug\net5.0\SimuladorClientes.dll
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\bin\Debug\net5.0\ref\SimuladorClientes.dll
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\bin\Debug\net5.0\SimuladorClientes.pdb
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\obj\Debug\net5.0\SimuladorClientes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\obj\Debug\net5.0\SimuladorClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\obj\Debug\net5.0\SimuladorClientes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\obj\Debug\net5.0\SimuladorClientes.AssemblyInfo.cs
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\obj\Debug\net5.0\SimuladorClientes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\obj\Debug\net5.0\SimuladorClientes.dll
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\obj\Debug\net5.0\ref\SimuladorClientes.dll
+C:\Users\user\Desktop\Programacion_II_repo github\SimuladorClientes\SimuladorClientes\obj\Debug\net5.0\SimuladorClientes.pdb

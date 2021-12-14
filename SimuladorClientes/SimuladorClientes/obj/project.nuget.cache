@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVxBinc8tVRCuidXHUSU3pC3jg4uYciY+++aLLEGulv2/7VmCKwpj75/rDpqn2TTyrzzBhZ4liKZt0Sroq5WBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Programacion_II_repo github\\SimuladorClientes\\SimuladorClientes\\SimuladorClientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
